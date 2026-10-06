@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" role="img" aria-labelledby="title">
+<title id="title">Informe de coincidencias de ejemplo</title>
+<rect width="800" height="480" rx="24" fill="#eaf2ff"/><rect x="60" y="45" width="680" height="390" rx="16" fill="white"/>
+<g font-family="Arial, sans-serif" fill="#212529"><text x="95" y="100" font-size="27" font-weight="bold">Tu texto, con contexto</text><text x="95" y="134" font-size="17" fill="#495057">INFORME DE EJEMPLO</text>
+<rect x="95" y="177" width="360" height="20" rx="4" fill="#dee2e6"/><rect x="95" y="215" width="310" height="20" rx="4" fill="#dee2e6"/><rect x="95" y="253" width="350" height="24" rx="4" fill="#ffe69c"/><rect x="95" y="295" width="330" height="20" rx="4" fill="#dee2e6"/><rect x="95" y="333" width="280" height="20" rx="4" fill="#dee2e6"/>
+<circle cx="595" cy="248" r="82" fill="#cfe2ff"/><text x="595" y="258" text-anchor="middle" font-size="44" font-weight="bold" fill="#084298">18 %</text><text x="595" y="355" text-anchor="middle" font-size="18">Coincidencias</text><text x="95" y="398" font-size="16">Revisa las fuentes antes de sacar conclusiones.</text></g></svg>
